@@ -3,7 +3,7 @@ import { loadExternalResource } from '@/lib/utils'
 import { useEffect, useRef, useState } from 'react'
 
 /**
- * Giscus评论 @see https://giscus.app/zh-CN
+ * Giscus评论 @see https://giscus.app/en-US
  * Contribute by @txs https://github.com/txs/NotionNext/commit/1bf7179d0af21fb433e4c7773504f244998678cb
  * @returns {JSX.Element}
  * @constructor
